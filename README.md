@@ -3,7 +3,8 @@
 Historical exchange rates data for Singapore Dollar (SGD) per 100 Indian Rupees (INR) from January 2006 to October 2025.
 
 ## Data Source
-Monetary Authority of Singapore (MAS) Financial Database
+[Monetary Authority of Singapore (MAS) Financial Database](https://eservices.mas.gov.sg/statistics/msb/exchangerates.aspx)
+
 
 ## Files
 - `raw_data.csv` - Original data from MAS
